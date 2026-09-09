@@ -1,4 +1,4 @@
-# **The Art of Behind the Scenes **
+# **The Art of Behind the Scenes**
 <!--
 **pak-app/pak-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
